@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NSwag.AspNetCore" Version="14.6.1" />
+  </ItemGroup>
+
 </Project>
